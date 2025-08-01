@@ -7,3 +7,4 @@ Personal collection of notebooks, Python scripts, and experimental work focused 
 ### Directory `src/2024`
 
 - `model_02102024_attn.py`: Attention block + Linear layer
+- `model_05122024_qwen_chatbot_setup.py`: Framework to deploy llm as chatbot with qwen model
